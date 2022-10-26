@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "myHome-applet",
+  "description": "文君铉铉",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
